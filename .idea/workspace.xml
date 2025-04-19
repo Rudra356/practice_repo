@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca8bfa6d-6d1c-46b4-b37d-e14ebce5cdac" name="Changes" comment="Commit of Day 2">
+      <change afterPath="$PROJECT_DIR$/Day_2/p2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_2/p3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day_2/p1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day_2/p1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +45,8 @@
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Application.Day_2.p1.executor": "Run",
+    "Application.Day_2.p2.executor": "Run",
+    "Application.Day_2.p3.executor": "Run",
     "Application.p1.executor": "Run",
     "Application.p2.executor": "Run",
     "Application.p3.executor": "Run",
@@ -54,7 +57,7 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Day_2.p1">
+  <component name="RunManager" selected="Application.Day_2.p3">
     <configuration name="Day_2.p1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day_2.p1" />
       <module name="DP" />
@@ -68,12 +71,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day_1.p1" />
+    <configuration name="Day_2.p2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day_2.p2" />
       <module name="DP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day_1.*" />
+          <option name="PATTERN" value="Day_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day_2.p3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day_2.p3" />
+      <module name="DP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,10 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Day_2.p3" />
+        <item itemvalue="Application.Day_2.p2" />
         <item itemvalue="Application.Day_2.p1" />
         <item itemvalue="Application.p3" />
         <item itemvalue="Application.p2" />
-        <item itemvalue="Application.p1" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +166,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745085410381</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Commit of Day 2">
+      <option name="closed" value="true" />
+      <created>1745086239555</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1745086239555</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
