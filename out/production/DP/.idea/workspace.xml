@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca8bfa6d-6d1c-46b4-b37d-e14ebce5cdac" name="Changes" comment="Final commit of Day 1">
-      <change afterPath="$PROJECT_DIR$/Day_2/p1.java" afterDir="false" />
+    <list default="true" id="ca8bfa6d-6d1c-46b4-b37d-e14ebce5cdac" name="Changes" comment="Commit of Day 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DP/.idea/DP.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DP/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DP/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DP/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DP/Day_1/p1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DP/Day_1/p2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DP/Day_1/p3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_2/p1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day_2/p1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +43,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.Day_2.p1.executor": "Run",
     "Application.p1.executor": "Run",
     "Application.p2.executor": "Run",
     "Application.p3.executor": "Run",
@@ -147,11 +141,20 @@
       <option name="project" value="LOCAL" />
       <updated>1744977961846</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Commit of Day 2">
+      <option name="closed" value="true" />
+      <created>1745085410381</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1745085410381</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Final commit of Day 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Final commit of Day 1" />
+    <MESSAGE value="Commit of Day 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit of Day 2" />
   </component>
 </project>
