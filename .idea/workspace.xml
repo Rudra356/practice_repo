@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca8bfa6d-6d1c-46b4-b37d-e14ebce5cdac" name="Changes" comment="Commit of Day 2">
-      <change afterPath="$PROJECT_DIR$/Day_3/p1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_3/p2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day_3/p3.java" afterDir="false" />
+    <list default="true" id="ca8bfa6d-6d1c-46b4-b37d-e14ebce5cdac" name="Changes" comment="Commit of Day 3">
+      <change afterPath="$PROJECT_DIR$/Day_3/p5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DP/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,27 +51,17 @@
     "Application.p1.executor": "Run",
     "Application.p2.executor": "Run",
     "Application.p3.executor": "Run",
+    "Application.p4.executor": "Run",
+    "Application.p5.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.p4">
-    <configuration name="Day_2.p3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day_2.p3" />
-      <module name="DP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day_2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.p5">
     <configuration name="p1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day_3.p1" />
       <module name="DP" />
@@ -124,13 +114,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="p5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day_3.p5" />
+      <module name="DP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.p5" />
         <item itemvalue="Application.p4" />
         <item itemvalue="Application.p3" />
         <item itemvalue="Application.p2" />
         <item itemvalue="Application.p1" />
-        <item itemvalue="Application.Day_2.p3" />
       </list>
     </recent_temporary>
   </component>
@@ -183,12 +186,30 @@
       <option name="project" value="LOCAL" />
       <updated>1745087276687</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Final commit of Day 2">
+      <option name="closed" value="true" />
+      <created>1745090051659</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1745090051659</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Commit of Day 3">
+      <option name="closed" value="true" />
+      <created>1745090097563</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1745090097563</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Final commit of Day 1" />
     <MESSAGE value="Commit of Day 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit of Day 2" />
+    <MESSAGE value="Final commit of Day 2" />
+    <MESSAGE value="Commit of Day 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit of Day 3" />
   </component>
 </project>
