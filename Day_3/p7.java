@@ -5,22 +5,22 @@ import java.util.LinkedList;
 
 public class p7 {
     public static void main(String[] args) {
-//        ArrayList<Integer> a = new ArrayList<>();
-//        //push
-//        a.addLast(1);
-//        a.addLast(2);
-//        a.addLast(3);
-//        a.addLast(4);
-//
-//        //peak
-//        System.out.println(a.isEmpty());
-//        System.out.println(a.getLast());
-//
-//        //pop
-//        System.out.println("Removing "+a.removeLast());
-//
-//        //display
-//        System.out.println(a);
+        ArrayList<Integer> a = new ArrayList<>();
+        //push
+        a.addLast(1);
+        a.addLast(2);
+        a.addLast(3);
+        a.addLast(4);
+
+        //peak
+        System.out.println(a.isEmpty());
+        System.out.println(a.getLast());
+
+        //pop
+        System.out.println("Removing "+a.removeLast());
+
+//        display
+        System.out.println(a);
 
         LinkedList<Integer> b = new LinkedList<>();
         b.addLast(1);
